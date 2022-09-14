@@ -4,6 +4,6 @@
 ## 使用方法
 ```
 git clone https://github.com/Yao-Jiayi/zipDecompression
-cd zipDecompression-main
+cd zipDecompression
 python zipDecompression.py
 ```
