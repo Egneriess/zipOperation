@@ -14,7 +14,7 @@ python zipDecompression.py
 ```
 git clone https://github.com/Yao-Jiayi/zipOperation
 cd zipOperation
-python zipCompression.py.py
+python zipCompression.py
 ```
 
 ### 新功能
